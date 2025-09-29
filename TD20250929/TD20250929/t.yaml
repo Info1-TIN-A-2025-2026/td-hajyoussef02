@@ -1,0 +1,6 @@
+
+tests :
+ - name : test 1
+   stdin : "360"
+   stdout :
+    - contains: "Number_OF_seconds:  "
